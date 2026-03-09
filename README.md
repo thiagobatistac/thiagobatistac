@@ -41,7 +41,7 @@ I have hands-on experience developing **backend systems, CRUD applications, and 
 
 Fullstack **Java application** designed to simulate a **real production environment**, with a structured backend and organized API architecture.
 
-🔗 **[View Repository](https://github.com/thiagobatistac/production-control-system)**
+🔗 **[View Repository](https://github.com/thiagobatistac/production-control)**
 
 ### Key features
 
@@ -62,7 +62,7 @@ Java • Spring Boot • SQL • REST API • Maven • Git
 
 Backend system for managing **books and users**, developed to apply **object-oriented programming and clean code principles**.
 
-🔗 **[View Repository](https://github.com/thiagobatistac/library-management-system)**
+🔗 **[View Repository](https://github.com/thiagobatistac/library-management)**
 
 ### Features
 
@@ -81,7 +81,7 @@ Java • OOP • Clean Code
 
 CRUD application developed using **Java and JDBC**, focusing on **database interaction and data persistence**.
 
-🔗 **[View Repository](https://github.com/thiagobatistac/contact-list)**
+🔗 **[View Repository](https://github.com/thiagobatistac/contact-list-jdbc)**
 
 ### Features
 
