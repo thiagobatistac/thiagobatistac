@@ -1,64 +1,112 @@
 # Hi there, I'm Thiago 👋
 
-Java Backend Developer | Spring Boot | SQL | REST APIs | Cloud Fundamentals
+Java Backend Developer | Spring Boot | SQL | REST APIs | AWS
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Java backend developer with hands-on experience building REST APIs, CRUD systems, and structured backend applications using good software engineering practices.
+I'm a **Java Backend Developer** focused on building **RESTful APIs and backend applications** using **Java, Spring Boot, and relational databases**.
 
-I work mainly with Java and Spring Boot, applying concepts such as clean code, object-oriented programming, and design patterns. I also have experience with relational databases and SQL, and I'm currently expanding my knowledge in cloud computing and backend scalability.
-
-I'm looking for opportunities as a **Junior or Trainee Software Developer**, where I can contribute to real-world systems while continuously improving my technical skills.
+I have hands-on experience developing **backend systems, CRUD applications, and fullstack projects**, applying software engineering practices such as **clean code, object-oriented programming, and layered architecture**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-- **Languages:** Java, SQL, JavaScript  
-- **Backend:** Spring Boot, JDBC, RESTful APIs  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools & Ecosystem:** Git, GitHub, Maven, IntelliJ IDEA, VS Code  
-- **Cloud & DevOps:** AWS (Cloud Practitioner level), Docker (basic)  
-- **Concepts:** OOP, Clean Code, Design Patterns, API Documentation (Swagger/OpenAPI)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### Core Concepts
 
-## 📌 Featured Projects
-
-### 📚 Library Management System
-Java-based system for managing books and users, applying object-oriented principles and clean code practices.
-
-### 📇 Contact List (JDBC + SQL)
-CRUD application using Java and JDBC with relational databases, focusing on data persistence and separation of concerns.
-
-### ✅ To-Do List Application
-Task management system built in Java to practice business logic, data structures, and code organization.
-
-> More details and source code are available in my repositories.
+- Object-Oriented Programming (OOP)  
+- Clean Code  
+- Design Patterns  
+- Layered Architecture  
+- DTO Pattern  
+- API Documentation (Swagger / OpenAPI)  
+- Unit Testing (JUnit)
 
 ---
 
-## 🌱 Currently Learning
+# 📌 Featured Projects
 
-- Advanced Spring Boot concepts  
-- Software Architecture and Distributed Systems  
-- AWS Cloud (Certified Cloud Practitioner – CLF-C02)  
-- Agile methodologies and software project fundamentals  
+## 🚀 Production Control System (Fullstack)
+
+Fullstack **Java application** designed to simulate a **real production environment**, with a structured backend and organized API architecture.
+
+🔗 **[View Repository](https://github.com/thiagobatistac/production-control-system)**
+
+### Key features
+
+- REST API built with **Spring Boot**
+- Layered architecture (**Controller, Service, Repository**)
+- DTO pattern for data transfer
+- Relational database integration
+- Business rule validation
+- Structured backend designed for scalability
+
+### Technologies
+
+Java • Spring Boot • SQL • REST API • Maven • Git
 
 ---
 
-## 🎯 Professional Focus
+## 📚 Library Management System
 
-Backend development with Java, focusing on clean architecture, scalable APIs, and well-structured systems.
+Backend system for managing **books and users**, developed to apply **object-oriented programming and clean code principles**.
+
+🔗 **[View Repository](https://github.com/thiagobatistac/library-management-system)**
+
+### Features
+
+- Book management  
+- User management  
+- Business rule validation  
+- Organized code structure  
+
+### Technologies
+
+Java • OOP • Clean Code
 
 ---
 
-## 📫 Contact
+## 📇 Contact List (JDBC + SQL)
 
-- 📧 Email: batista.thiago2002@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/thiago-batistac  
-- 🐙 GitHub: github.com/thiagobatistac  
+CRUD application developed using **Java and JDBC**, focusing on **database interaction and data persistence**.
 
-Feel free to connect or reach out — I'm always open to collaboration and new opportunities.
+🔗 **[View Repository](https://github.com/thiagobatistac/contact-list)**
+
+### Features
+
+- Create, update, delete and list contacts  
+- JDBC integration  
+- SQL queries for relational data manipulation  
+- Separation of concerns  
+
+### Technologies
+
+Java • JDBC • SQL • MySQL / PostgreSQL
+
+---
+
+# 📫 Contact
+
+📧 Email  
+batista.thiago2002@gmail.com  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/thiago-batistac  
+
+🐙 GitHub  
+https://github.com/thiagobatistac  
+
+---
+
+⭐ Feel free to connect or reach out — I'm always open to collaboration and new opportunities.
