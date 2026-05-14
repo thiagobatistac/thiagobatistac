@@ -1,112 +1,72 @@
-# Hi there, I'm Thiago 👋
+# Hi there, I'm Thiago Batista 👋
 
-Java Backend Developer | Spring Boot | SQL | REST APIs | AWS
+**Fullstack Developer | Java & Spring Boot | Node.js & NestJS | React & Next.js | AWS Certified**
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Java Backend Developer** focused on building **RESTful APIs and backend applications** using **Java, Spring Boot, and relational databases**.
+I'm a **Fullstack Developer** focused on building scalable, resilient, and high-performance web applications. My expertise bridges the gap between robust backend architectures and dynamic, optimized frontend interfaces.
 
-I have hands-on experience developing **backend systems, CRUD applications, and fullstack projects**, applying software engineering practices such as **clean code, object-oriented programming, and layered architecture**.
+With hands-on experience in both **Java (Spring Boot)** and **TypeScript (Node.js/NestJS)** ecosystems, I specialize in designing RESTful APIs, implementing asynchronous messaging architectures (Redis/BullMQ), and developing modern frontends using **React and Next.js**. As an **AWS Certified Cloud Practitioner**, I also bring a strong foundation in cloud infrastructure and deployments to ensure systems are secure and highly available.
 
 ---
 
 # 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Languages & Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nestjs,react,nextjs" />
+</div>
 
-### Core Concepts
+### Databases, Infrastructure & Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,aws,docker,git" />
+</div>
 
-- Object-Oriented Programming (OOP)  
-- Clean Code  
-- Design Patterns  
-- Layered Architecture  
-- DTO Pattern  
-- API Documentation (Swagger / OpenAPI)  
-- Unit Testing (JUnit)
+<br>
+
+### Core Concepts & Practices
+*   **Architecture:** Monorepo, Microservices, Layered Architecture
+*   **Backend:** REST API Design, Async Processing (BullMQ), Security (Bcrypt, JWT)
+*   **Engineering:** Object-Oriented Programming (OOP), Clean Code, SOLID principles, DTO Pattern
+*   **Testing & Docs:** Unit Testing (JUnit), API Documentation (Swagger/OpenAPI)
 
 ---
 
 # 📌 Featured Projects
 
 ## 🚀 Production Control System (Fullstack)
-
-Fullstack **Java application** designed to simulate a **real production environment**, with a structured backend and organized API architecture.
+A full-stack application designed to simulate a real industrial production environment, featuring a structured backend, comprehensive API architecture, and an interactive frontend.
 
 🔗 **[View Repository](https://github.com/thiagobatistac/production-control)**
 
-### Key features
-
-- REST API built with **Spring Boot**
-- Layered architecture (**Controller, Service, Repository**)
-- DTO pattern for data transfer
-- Relational database integration
-- Business rule validation
-- Structured backend designed for scalability
-
-### Technologies
-
-Java • Spring Boot • SQL • REST API • Maven • Git
-
----
+*   **Stack:** Java 21, Spring Boot, React, SQL
+*   **Highlights:** Implemented a robust REST API with layered architecture, business rule validations, DTO patterns for secure data transfer, and a seamless integration with a relational database.
 
 ## 📚 Library Management System
-
-Backend system for managing **books and users**, developed to apply **object-oriented programming and clean code principles**.
+A backend system engineered for managing book inventories and user records, built with a strong emphasis on scalable design patterns.
 
 🔗 **[View Repository](https://github.com/thiagobatistac/library-management)**
 
-### Features
-
-- Book management  
-- User management  
-- Business rule validation  
-- Organized code structure  
-
-### Technologies
-
-Java • OOP • Clean Code
-
----
+*   **Stack:** Java, Object-Oriented Programming
+*   **Highlights:** Focused on clean code principles, strict separation of concerns, and robust business rule validations to ensure data integrity.
 
 ## 📇 Contact List (JDBC + SQL)
-
-CRUD application developed using **Java and JDBC**, focusing on **database interaction and data persistence**.
+A foundational CRUD application focusing on direct database interaction, persistence mechanisms, and structured queries.
 
 🔗 **[View Repository](https://github.com/thiagobatistac/contact-list-jdbc)**
 
-### Features
-
-- Create, update, delete and list contacts  
-- JDBC integration  
-- SQL queries for relational data manipulation  
-- Separation of concerns  
-
-### Technologies
-
-Java • JDBC • SQL • MySQL / PostgreSQL
+*   **Stack:** Java, JDBC, PostgreSQL / MySQL
+*   **Highlights:** Designed with raw SQL queries for optimized relational data manipulation, demonstrating a deep understanding of database connections and persistence without ORM abstraction.
 
 ---
 
-# 📫 Contact
+# 📫 Let's Connect!
 
-📧 Email  
-batista.thiago2002@gmail.com  
+📧 **Email:** batista.thiago2002@gmail.com  
+💼 **LinkedIn:** [https://www.linkedin.com/in/thiago-batistac](https://www.linkedin.com/in/thiago-batistac)  
+🐙 **GitHub:** [https://github.com/thiagobatistac](https://github.com/thiagobatistac)  
+☁️ **Credly (AWS Certified):** [Insert your AWS badge link here]
 
-💼 LinkedIn  
-https://www.linkedin.com/in/thiago-batistac  
-
-🐙 GitHub  
-https://github.com/thiagobatistac  
-
----
-
-⭐ Feel free to connect or reach out — I'm always open to collaboration and new opportunities.
+⭐ Feel free to connect or reach out — I'm always open to collaboration, technical discussions, and new opportunities.
