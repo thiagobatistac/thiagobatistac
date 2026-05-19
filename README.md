@@ -67,6 +67,6 @@ A foundational CRUD application focusing on direct database interaction, persist
 📧 **Email:** batista.thiago2002@gmail.com  
 💼 **LinkedIn:** [https://www.linkedin.com/in/thiago-batistac](https://www.linkedin.com/in/thiago-batistac)  
 🐙 **GitHub:** [https://github.com/thiagobatistac](https://github.com/thiagobatistac)  
-☁️ **Credly (AWS Certified):** [Insert your AWS badge link here]
+☁️ **Credly (AWS Certified):** (https://www.credly.com/badges/1aecb5b1-2518-4eba-8b97-4a4fe7cdcc7f/linked_in_profile)
 
 ⭐ Feel free to connect or reach out — I'm always open to collaboration, technical discussions, and new opportunities.
